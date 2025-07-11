@@ -27,6 +27,7 @@ Each card is wrapped inside a Bootstrap column (`col-md-4`) and styled using:
 <img width="1437" alt="Screenshot 2025-06-25 at 05 21 13" src="https://github.com/user-attachments/assets/cb39ce08-15b9-4d80-a653-aeaf2862a96b" />
 <img width="1438" alt="Screenshot 2025-06-25 at 05 21 34" src="https://github.com/user-attachments/assets/f18db989-f4ac-4ca7-b3c4-b8b5975c41fe" />
 ## 🌍 Live Preview
+https://thaps72.github.io/Three-Equal-Cards/
 
 
 ## 📁 Project Structure
